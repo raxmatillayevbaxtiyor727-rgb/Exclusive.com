@@ -24,4 +24,4 @@ Birinchi marta `/admin/` sahifasiga kirib, SETUP_KEY orqali admin hisobini yarat
 
 Agar eski admin hisob allaqachon Netlify Blobs ichida mavjud bo'lsa, yangi SETUP_KEY bilan qayta hisob yaratish ishlamaydi. Eski admin parolini almashtirish uchun mavjud admin paroli kerak bo'ladi.
 
-### @Admin
+## Admin
